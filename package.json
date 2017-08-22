@@ -1,0 +1,15 @@
+{
+  "name": "katmandu-offline-load-v2",
+  "version": "1.0.0",
+  "description": "Katmandu Offline Transaction Processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/katmandu-offline-load-v2.git"
+  },
+  "author": "Brenda Campbell",
+  "license": "ISC"
+}
