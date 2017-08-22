@@ -10,6 +10,11 @@
     "type": "git",
     "url": "https://git.heroku.com/katmandu-offline-load-v2.git"
   },
+  "dependencies": {
+    "node-rest-client": "^2.1.3",
+    "JSON": "^1.0.0",
+    "xml2js": "^0.4.16"
+  },
   "author": "Brenda Campbell",
   "license": "ISC"
 }
